@@ -1,0 +1,28 @@
+Scope note
+==========
+The 0BSD license below applies ONLY to the original source code in this
+repository (the application code authored for the SyncSheets project).
+It does NOT apply to third-party or bundled dependencies. Every package
+under `node_modules/` retains its own license. The vendored shadcn/ui
+components under `src/components/ui/` are MIT-licensed (Copyright (c)
+2023 shadcn). A complete inventory of third-party licenses and the
+required attribution / NOTICE texts (Apache-2.0 §4, MIT, ISC, etc.) is
+in THIRD_PARTY_NOTICES.md.
+
+
+BSD Zero Clause License
+=======================
+
+Copyright (c) 2026 SyncSheets contributors
+
+Permission to use, copy, modify, and/or distribute this software for
+any purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL
+WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL
+DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
